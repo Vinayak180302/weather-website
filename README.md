@@ -1,19 +1,26 @@
-Weather website
+# 🌤️ Weather Website
 
-This is a web application that provides real-time weather information for different cities. 
-Users can search for a city and get detailed weather data including temperature, humidity, wind speed, and more.
+A simple and interactive weather website that provides real-time weather information for cities around the world. Built using HTML, CSS, JavaScript, and integrated with the OpenWeatherMap API.
+
+## 🔗 Live Demo
+[Click here to view the live demo](https://vinayak180302.github.io/weather-website/)/)
+## 📸 Screenshot
+
+![Weather Website Screenshot](screenshot.png) <!-- Replace with your actual screenshot filename -->
+
+## 🚀 Features
+
+- 🌍 Get weather information for any city
+- 📅 Displays current date and time
+- 🌡️ Shows temperature, humidity, and weather description
+- 📱 Responsive design for all screen sizes
+- 🔄 Real-time API integration
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
 
-Features -
-
-• Search weather by city name.
-
-• Display real-time weather information.
-
-• Detailed weather metrics including temperature, humidity, wind speed, and weather conditions.
-
-Technologies Used - 
-
-• Frontend: HTML, CSS, JavaScript.
-
-• API: OpenWeather API (or specify the weather API you used).
